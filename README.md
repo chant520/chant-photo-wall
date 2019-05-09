@@ -61,24 +61,28 @@
 > 将容器`DIV`的`id`设置为`chant-photo-waterfall`
 
 ```html
-<div id="chant-photo-waterfall">
-</div>
+<div id="chant-photo-waterfall"> </div>
 ```
 
 效果图  
 
-![pintuimage][image3]
+![pubuimage][image4]
 
->参考文章
+## 参考文章
 >
 >[那些你不知道的社交Feed流图片布局 ——人人都是产品经理(风筝KK)][text1]  
->[伪类匹配列表数目实现微信群头像CSS布局的技巧——张鑫旭][text2]
+>[伪类匹配列表数目实现微信群头像CSS布局的技巧——张鑫旭][text2]  
+>[折腾:瀑布流布局（基于多栏列表流体布局实现）——张鑫旭][text3]  
+>[前端页面--瀑布流布局的实现——博客园(JonnyF)][text4]
 
 
 
 [image1]: /readme/gongge-one-image.png "一张图的特俗情况"
 [image2]: /readme/gongge-more-image.png "多张图的布局"
 [image3]: /readme/pintu-all-image.png "拼图式布局全部预览"
+[image4]: /readme/pubu-all-image.png "瀑布流布局全部预览"
 
 [text1]: http://www.woshipm.com/pd/1538864.html "那些你不知道的社交Feed流图片布局 ————人人都是产品经理(风筝KK)"
 [text2]: https://www.zhangxinxu.com/wordpress/2019/03/nth-last-child-css-layout/ "伪类匹配列表数目实现微信群头像CSS布局的技巧——张鑫旭"
+[text3]: https://www.zhangxinxu.com/wordpress/2012/03/%E5%A4%9A%E6%A0%8F%E5%88%97%E8%A1%A8%E5%8E%9F%E7%90%86%E4%B8%8B%E5%AE%9E%E7%8E%B0%E7%9A%84%E7%80%91%E5%B8%83%E6%B5%81%E5%B8%83%E5%B1%80-waterfall-layout/ "折腾:瀑布流布局（基于多栏列表流体布局实现）"
+[text4]: https://www.cnblogs.com/fuhuixiang/p/4340205.html "前端页面--瀑布流布局的实现"
