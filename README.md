@@ -16,6 +16,7 @@
     <script src="./js/chant-photo-waterfall.js?id=3453453453"></script>
     
 ```
+#### [升级计划][updatelink]
 
 ## 宫格式布局
 类似于微信朋友圈的照片布局格式，整体布局是 `9 x 9` 的宫格布局  
@@ -76,6 +77,8 @@
 >[前端页面--瀑布流布局的实现——博客园(JonnyF)][text4]
 
 
+
+[updatelink]: /UPDATEPLAN.md "查看升级计划"
 
 [image1]: /readme/gongge-one-image.png "一张图的特俗情况"
 [image2]: /readme/gongge-more-image.png "多张图的布局"
